@@ -1,0 +1,17 @@
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/entity/Level.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/service/CloneServiceImpl.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/entity/AssignmentStatus.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/service/AssignmentService.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/service/SpoonService.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/service/AnalyzerService.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/repository/AssignmentQuestionRepository.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/entity/Scope.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/config/CustomAnalyzerConfig.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/service/SpoonServiceImpl.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/service/AssignmentServiceImpl.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/service/AnalyzerServiceImpl.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/AnalyzerLcaSpringApplication.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/entity/AssignmentQuestion.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/entity/StudentAssignment.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/repository/StudentAssignmentRepository.java
+/home/quang2652001/Quang/self-study/analyzer-lca/analyzer-engine/src/main/java/com/lca/analyzerlcaspring/service/CloneService.java

@@ -31,7 +31,7 @@ public class CustomAnalyzerConfig {
         List<CustomAnalyzer> customAnalyzerList = new ArrayList<>();
         List<URL> analyzerURLs = new ArrayList<>();
 
-        File folder = new File("/Users/kimquangcap/Downloads/backend-files");
+        File folder = new File("/mnt/data/custom-analyzer");
         if (folder.listFiles() != null) {
             List<File> analyzers = new ArrayList<>(Arrays.asList(folder.listFiles()));
             for (File analyzer : analyzers) {

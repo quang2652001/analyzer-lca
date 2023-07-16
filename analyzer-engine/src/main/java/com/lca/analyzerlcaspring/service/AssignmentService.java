@@ -1,5 +1,5 @@
 package com.lca.analyzerlcaspring.service;
 
 public interface AssignmentService {
-    void analyzeAssignment();
+    void analyzeAssignment(String path);
 }

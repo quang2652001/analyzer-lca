@@ -12,8 +12,7 @@ public class SpoonServiceImpl implements SpoonService {
     Logger LOGGER = LoggerFactory.getLogger(SpoonServiceImpl.class);
 
     @Override
-    public CtModel buildSpoonModel(int studentAssignmentId) {
-        String path = "src/main/resources/gitclone/assignment-" + studentAssignmentId + "/";
+    public CtModel buildSpoonModel(String path) {
         SpoonAPI spoonAPI = new Launcher();
 
         LOGGER.info("Start building Spoon model at path: " + path);
